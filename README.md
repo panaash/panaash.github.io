@@ -1,2 +1,2 @@
-# panaashproto.github.io
+# panaash.github.io
 My first try
